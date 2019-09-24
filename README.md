@@ -1,8 +1,8 @@
-*  Cadastro / Login / Envio de foto
+##  Cadastro / Login / Envio de foto
  - Projeto desenvolvido em Django
 
 
-* Como rodar este projeto
+## Como rodar este projeto
 
 - Clone esse repositório.
 - Entra na pasta app
@@ -12,9 +12,9 @@
 - Rode as migrações.
 - Iniciar o servidor web
 
-* Comandos
+## Comandos
 
-- git clone https://github.com/fabriciocovalesci/Django
+- git clone https://github.com/fabriciocovalesci/Teste.git
 - cd web
 - python3 -m venv venv
 - source .venv/bin/activate
