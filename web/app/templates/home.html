@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+
+<h2>Home Page</h2>
+
+    <h4>Bem vindo {% if user.is_authenticated %}{{ user.username }}{% else %} {% endif %} </h4>
+    
+    <strong>Total de usuarios: </strong> {{ conta }}
+
+{% endblock  %}
