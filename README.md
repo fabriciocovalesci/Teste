@@ -5,7 +5,7 @@
 ## Como rodar este projeto
 
 - Clone esse repositório.
-- Entra na pasta app
+- Entra na pasta web
 - Crie um virtualenv com Python 3.
 - Ative o virtualenv.
 - Instalação de dependências
